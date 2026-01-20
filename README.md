@@ -29,7 +29,7 @@ A simple fullscreen map application as an example on how to use MapTiler maps to
 </ul>
 </details>
 
-<p align="center">   <img src="https://docs.maptiler.com/react/assets/img/thumbnails/how-to-use-sdk-js.png" alt="Demo Screenshot" width="80%"/>
+<p align="center">   <img src="https://docs.maptiler.com/mobile-sdk/android/assets/img/thumbnails/get-started.png" alt="Demo Screenshot" width="80%"/>
 <br>
 
 ## 📦 Installation
