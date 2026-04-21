@@ -4,7 +4,7 @@ import { MapView, Camera } from "@maplibre/maplibre-react-native";
 
 export default function App() {
 
-  const MAPTILER_API_KEY = " QmQTdZhwBUCcTIoO4WN4";
+  const MAPTILER_API_KEY = "QmQTdZhwBUCcTIoO4WN4";
 
   return (
     <View style={styles.container}>
